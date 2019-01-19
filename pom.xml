@@ -5,12 +5,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.responsible_nrg</groupId>
-	<artifactId>EurekaSecondaryServer</artifactId>
-	<version>0.0.1</version>
+	<artifactId>EurekaPrimaryServer</artifactId>
+	<version>0.1.0</version>
 	<packaging>jar</packaging>
 
-	<name>EurekaSecondaryServer</name>
-	<description>Eureka Secondary Server</description>
+	<name>EurekaPrimaryServer</name>
+	<description>Eureka Primary Server</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

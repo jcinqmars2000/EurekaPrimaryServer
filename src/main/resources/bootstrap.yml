@@ -7,6 +7,3 @@ spring:
       uri: http://config.responsible-nrg.com
   profiles:
     active: eureka-primary
-server:
-  port: 8011
-           
